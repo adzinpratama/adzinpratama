@@ -2,7 +2,7 @@
 - 👀 I’m interested in something new on programing world
 - 🌱 I’m currently learning vue js
 - 💞️ I’m looking to collaborate on @phbdev
-- 📫 to reach me you can call this number : +6282328139424
+- 📫 How to reach me, you can email to : hilmiadzinpratama@gmail.com
 
 <!---
 adzinpratama/adzinpratama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
